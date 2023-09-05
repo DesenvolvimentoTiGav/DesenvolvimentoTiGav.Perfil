@@ -1,3 +1,5 @@
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DesenvolvimentoTiGav&show_icons=true&theme=radical)
 - 👋 Hi, I’m @DesenvolvimentoTiGav
 - 👀 I’m interested in ... Development
 - 🌱 I’m currently learning ... Kubernets
